@@ -60,10 +60,11 @@ h3 {
   border: 1px solid rgb(3, 219, 14);
   color: white;
   text-align: center;
-  width: 90%;
+  width: 80%;
   margin: 50px auto;
   padding-bottom: 40px;
   border-radius: 20px;
+  box-shadow: 0 0 35px rgb(3, 219, 14);
 }
 
 button {
@@ -93,4 +94,26 @@ button {
 
 a {
   text-decoration: none;
+}
+
+.öğrenecekleriniz {
+  width: 80%;
+  border: 1px solid rgb(3, 219, 14);
+  margin: 50px auto;
+  border-radius: 20px;
+  padding-bottom: 40px;
+  box-shadow: 0 0 35px rgb(3, 219, 14);
+}
+
+.öğrenecekleriniz h3 {
+  font-size: 23px;
+  margin-bottom: 50px;
+}
+
+.öğrenecekleriniz p {
+  font-size: 20px;
+}
+
+.öğrenecekleriniz strong {
+  margin-right: 20px;
 }
